@@ -27,7 +27,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.1.14.RELEASE</version>
+      <version>5.3.23</version>
     </dependency>
     <dependency>
       <groupId>io.springfox</groupId>
@@ -35,9 +35,14 @@
       <version>2.9.2</version>
     </dependency>
     <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>31.1-jre</version>
+    </dependency>
+    <dependency>
       <groupId>br.eti.monzeu</groupId>
       <artifactId>task-processor-spring</artifactId>
-      <version>0.0.7</version>
+      <version>0.0.8</version>
     </dependency>
   </dependencies>
 
